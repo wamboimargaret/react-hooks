@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    /* margin-left: 30%; */
+    background-color: aliceblue;
+    box-shadow: 10px 10px 5px rgb(200, 231, 241);
+}
+.navbar li {
+    display: inline-block;
+    list-style-type: none;
+    padding: 19px 19px;
+    text-align: center;
+    margin-left: 15%;
+}
+  /* a {
+    color: #fff;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  } */
