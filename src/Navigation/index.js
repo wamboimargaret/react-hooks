@@ -4,9 +4,9 @@ const Navigationbar = () => {
   return (
     <nav className="navbar">
 
-    <li><a>Login</a></li>
-    <li><a>Product</a></li>
-    <li><a>Add product</a></li>
+    <li><a href='/login'>Login</a></li>
+    <li><a href='/product'>Product</a></li>
+    <li><a href='/addproduct'>Add product</a></li>
       
 </nav> 
   );
